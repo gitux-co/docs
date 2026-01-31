@@ -6,16 +6,9 @@ Choose your platform and download.
 
 <div class="download-grid">
 
-### Windows
-Coming soon
-
-### macOS
-Coming soon
-
 ### Linux
 **Gitux for Linux**
-- [Download .AppImage](https://github.com/gitux-co/gitux/releases/latest/download/Gitux.AppImage)
-- [Download .deb](https://github.com/gitux-co/gitux/releases/latest/download/Gitux.deb)
+- [Download .deb](https://github.com/gitux-co/gitux/downloads/latest/download/Gitux.deb)
 
 </div>
 
@@ -34,11 +27,6 @@ Coming soon
 Coming soon
 
 ### Linux
-**AppImage:**
-```bash
-chmod +x Gitux.AppImage
-./Gitux.AppImage
-```
 
 **Debian/Ubuntu:**
 ```bash
