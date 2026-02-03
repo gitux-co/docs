@@ -15,7 +15,7 @@ Track the complete history of any file in your repository.
 
 ## The File History Panel
 
-![File History Panel](/screenshots/file-git-history.png)
+![File History Panel](/screenshots/Screenshot%20-%20diff%20view.png)
 
 The file history panel shows:
 - **File path** at the top
