@@ -14,7 +14,11 @@ Everything you need for a smooth Git workflow.
 
 **Includes:**
 
-✅ Full Gitux application ✅ Voice-powered commits (offline AI) ✅ Unlimited repositories ✅ 3 devices ✅ All features, nothing hidden.
+✅ Full Gitux application 
+✅ Voice-powered commits (offline AI) 
+✅ Unlimited repositories 
+✅ 3 devices 
+✅ All features, nothing hidden.
 
 [Download Gitux](/download){.buy-button}
 
