@@ -32,22 +32,30 @@ Choose your platform and download from the [GitHub Releases](https://github.com/
 
 ## Installation
 
+### Linux
+
+**Debian/Ubuntu:**
+Via terminal run the below, or double click the .deb file and click install:
+```bash
+sudo dpkg -i <path-to-downloaded-file>/Gitux.deb
+```
+
+**Flatpak:**
+```bash
+flatpak install <path-to-downloaded-file>/Gitux.flatpak
+```
+
 ### Windows
 Run the `.exe` installer and follow the prompts.
 
 ### macOS
 Open the `.dmg` and drag Gitux to your Applications folder.
 
-### Linux
+MacOS will claim the package is broken but it is not, it is just Apple trying to force developers to pay each year for a developer license which is not required for this application.
 
-**Debian/Ubuntu:**
+If macOS blocks the app from opening, run this in Terminal first:
 ```bash
-sudo dpkg -i Gitux.deb
-```
-
-**Flatpak:**
-```bash
-flatpak install Gitux.flatpak
+xattr -cr /Applications/Gitux.app
 ```
 
 ## Licensing
