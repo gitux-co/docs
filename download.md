@@ -68,7 +68,7 @@ You'll be asked for a license key when you first launch the app.
 
 ## Updating
 
-Gitux checks for updates automatically. When one's available, you'll see a notification. Click to download, then restart to apply.
+For updates, please check the downloads release folder on GitHub.
 
 ## Need help?
 Email **support@gitux.co**.

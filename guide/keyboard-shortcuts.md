@@ -2,6 +2,9 @@
 
 Master these shortcuts to fly through your Git workflow.
 
+There are many settings to explore:
+![Screenshot - settings.png](/screenshots/Screenshot%20-%20settings.png)
+
 ## Viewing All Shortcuts
 
 Press `Ctrl+/` at any time to open the keyboard shortcuts panel within Gitux.

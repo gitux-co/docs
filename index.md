@@ -65,6 +65,9 @@ Every action has a shortcut. `Alt+O` to switch repos, `Ctrl+S` to stage all, `Al
 - **Open source contributors** juggling multiple repos
 - **Anyone** tired of typing `git log --oneline --graph --all`
 
+Easily keep an eye on which git commands are being run every step of the way:
+![Screenshot - git console.png](public/screenshots/Screenshot%20-%20git%20console.png)
+
 ---
 
 <div class="cta-section">

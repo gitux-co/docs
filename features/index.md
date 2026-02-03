@@ -66,4 +66,4 @@ One payment, lifetime access, 3 years of updates. No subscriptions, no tiers, no
 
 ## Getting Started
 
-New to Gitux? Start with the [Introduction](/guide/) to learn the basics, or jump straight to [Installation](/guide/installation) to get started.
+New to Gitux? Start with the [Introduction](/guide/) to learn the basics, or jump straight to [Downloads](/download) to get started.

@@ -28,15 +28,13 @@ Gitux is perfect for:
 
 ## Getting Started
 
-1. [Download Gitux](/download) for your platform
-2. [Install and activate](/guide/installation) your license
+2. [Download, Install and activate](/download) your license
 3. [Open a repository](/guide/opening-repo) and start working
 
 ## Interface Overview
 
 Gitux's interface is divided into three main areas:
-
-![Gitux Interface](/screenshots/Screenshot%20-%20splash%20page.png)
+![Gitux Interface](../public/screenshots/Screenshot%20-%20rich%20commit%20graph.png)
 
 - **Sidebar** (left) — Browse local branches, remote branches, and stashes
 - **Commit Graph** (centre) — Visual history of all commits with branch lines
@@ -44,6 +42,5 @@ Gitux's interface is divided into three main areas:
 
 ## Next Steps
 
-- [Installation Guide](/guide/installation) — Get Gitux running on your machine
 - [Opening a Repository](/guide/opening-repo) — Start working with your code
 - [Keyboard Shortcuts](/guide/keyboard-shortcuts) — Master the shortcuts for maximum speed

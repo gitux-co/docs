@@ -76,27 +76,6 @@ The fastest way to merge:
 | **Fast-forward** | Branch pointer moves, no merge commit |
 | **Conflicts** | Files with conflicts shown in staging panel |
 
-## Handling Merge Conflicts
-
-When a merge has conflicts:
-
-1. Gitux shows a warning notification
-2. Conflicted files appear in the staging panel
-3. Open each file in your editor to resolve conflicts
-4. Stage the resolved files
-5. Commit to complete the merge
-
-::: tip Conflict Markers
-Look for these markers in conflicted files:
-```
-<<<<<<< HEAD
-Your changes
-=======
-Their changes
->>>>>>> branch-name
-```
-:::
-
 ## Deleting Branches
 
 ### Delete Local Branch
