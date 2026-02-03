@@ -1,14 +1,24 @@
 # Download Gitux
 
-Choose your platform and download.
+Choose your platform and download from the [GitHub Releases](https://github.com/gitux-co/downloads/releases).
 
 ## Desktop App
 
 <div class="download-grid">
 
+### Windows
+**Gitux for Windows**
+- [Download .exe](https://github.com/gitux-co/downloads/releases/latest/download/Gitux-Setup.exe)
+
+### macOS
+**Gitux for macOS** (Apple Silicon)
+- [Download .dmg](https://github.com/gitux-co/downloads/releases/latest/download/Gitux.dmg)
+- [Download .zip](https://github.com/gitux-co/downloads/releases/latest/download/Gitux.zip)
+
 ### Linux
 **Gitux for Linux**
-- [Download .deb](https://github.com/gitux-co/gitux/downloads/latest/download/Gitux.deb)
+- [Download .deb](https://github.com/gitux-co/downloads/releases/latest/download/Gitux.deb) (Debian/Ubuntu)
+- [Download .flatpak](https://github.com/gitux-co/downloads/releases/latest/download/Gitux.flatpak)
 
 </div>
 
@@ -16,15 +26,17 @@ Choose your platform and download.
 
 | Platform | Minimum Requirements |
 |----------|---------------------|
+| Windows | Windows 10+, 4GB RAM |
+| macOS | macOS 11+ (Apple Silicon), 4GB RAM |
 | Linux | Ubuntu 20.04+ or equivalent, 4GB RAM |
 
 ## Installation
 
 ### Windows
-Coming soon
+Run the `.exe` installer and follow the prompts.
 
 ### macOS
-Coming soon
+Open the `.dmg` and drag Gitux to your Applications folder.
 
 ### Linux
 
@@ -33,15 +45,14 @@ Coming soon
 sudo dpkg -i Gitux.deb
 ```
 
-## Activation
+**Flatpak:**
+```bash
+flatpak install Gitux.flatpak
+```
 
-After installing, you'll need to activate Gitux with your license key:
+## Licensing
 
-1. Launch Gitux
-2. Enter your license key (received via email after purchase)
-3. Click "Activate"
-
-Your license is validated once, then works offline.
+You'll be asked for a license key when you first launch the app.
 
 ::: tip Don't have a license yet?
 [Purchase Gitux](/pricing) to get your license key instantly via email.
@@ -51,12 +62,5 @@ Your license is validated once, then works offline.
 
 Gitux checks for updates automatically. When one's available, you'll see a notification. Click to download, then restart to apply.
 
-## Troubleshooting
-
-### License activation fails
-- Check your internet connection
-- Make sure there are no extra spaces in the license key
-- Email support if it still doesn't work
-
-### Need help?
+## Need help?
 Email **support@gitux.co**.
