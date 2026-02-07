@@ -19,10 +19,11 @@ Everything you need for a smooth Git workflow.
 ✅ Unlimited repositories <br>
 ✅ 3 devices <br>
 ✅ All features, nothing hidden<br>
+✅ 4 week free trial, no credit card required, just download and start using it<br>
 
 [Download Gitux](/download){.buy-button}
 
-<small>Purchase your license directly in the app via Stripe.</small>
+<small>Try free for 28 days, then purchase your license directly in the app via Stripe.</small>
 
 </div>
 
@@ -46,9 +47,13 @@ All major credit cards, Apple Pay, and Google Pay via Stripe.
 
 Yes. Stripe handles payments; we never see your card details.
 
+### Is there a free trial?
+
+Yes. Gitux comes with a **28-day free trial** with full access to every feature. No credit card or account required — just download and start using it. When you're ready, purchase a license directly in the app.
+
 ### Do I need an internet connection?
 
-Only for activation. After that, Gitux works offline. Voice recognition runs locally too.
+Only for activation and starting a trial. After that, Gitux works offline. Voice recognition runs locally too.
 
 ---
 

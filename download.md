@@ -33,10 +33,10 @@ Then open Gitux as normal.
 
 ## Licensing
 
-You'll be asked for a license key when you first launch the app.
+When you first launch Gitux, you can **start a 28-day free trial** or enter an existing license key. The trial gives you full access to every feature — no credit card or account required.
 
 ::: tip Don't have a license yet?
-[Purchase Gitux](/pricing) to get your license key instantly via email.
+Start with the free trial, or [purchase Gitux](/pricing) to get your license key instantly via email.
 :::
 
 ## Updating
