@@ -37,6 +37,7 @@ Right-click any file to see its complete commit history. Track changes over time
 
 | Feature | Gitux | GitKraken | Sourcetree |
 |---------|--------|-----------|------------|
+| Available on all<br> platforms, including<br> Linux | ✅ | ✅ | ❌ (Mac/Windows) |
 | Visual commit graph | ✅ | ✅ | ✅ |
 | Drag & drop merge | ✅ | ✅ | ❌ |
 | Voice commits | ✅ | ❌ | ❌ |
