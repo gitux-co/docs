@@ -15,6 +15,18 @@ export default defineConfig({
     ['meta', { property: 'og:title', content: 'Gitux - Visual Git Made Simple' }],
     ['meta', { property: 'og:description', content: 'A lightweight, visual Git client with an intuitive commit graph, keyboard shortcuts, and voice-powered commits.' }],
     ['meta', { property: 'og:url', content: 'https://gitux.co' }],
+    ['script', {}, `
+      var _paq = window._paq = window._paq || [];
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//matomo.molley.io/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '2']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    `],
   ],
   themeConfig: {
     logo: '/logo.png',
