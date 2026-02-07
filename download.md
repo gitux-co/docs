@@ -23,12 +23,13 @@ Run the `.exe` installer and follow the prompts.
 ### macOS
 Open the `.dmg` and drag Gitux to your Applications folder.
 
-MacOS will claim the package is broken but it is not, it is just Apple trying to force developers to pay each year for a developer license which is not required for this application.
+macOS may show a security warning because Gitux is distributed independently. This is normal for apps outside the Mac App Store.
 
 If macOS blocks the app from opening, run this in Terminal first:
 ```bash
 xattr -cr /Applications/Gitux.app
 ```
+Then open Gitux as normal.
 
 ## Licensing
 
