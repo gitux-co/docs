@@ -74,7 +74,21 @@ The fastest way to merge:
 |--------|--------------|
 | **Success** | Changes merged, commit graph updates |
 | **Fast-forward** | Branch pointer moves, no merge commit |
-| **Conflicts** | Files with conflicts shown in staging panel |
+| **Conflicts** | Conflict resolution screen opens |
+
+### Post-Merge Cleanup
+When you merge a branch with a `/` in its name (e.g. `feature/login`, `fix/timeout`), Gitux recognises it as a feature/fix/hotfix branch and offers to delete it:
+- **Delete Local & Remote** — Clean up both copies
+- **Delete Local Only** — Keep the remote
+- **Keep Branch** — Do nothing
+
+### Resolving Conflicts
+If a merge results in conflicts, Gitux opens a dedicated resolution screen:
+1. See all conflicted files listed
+2. Click a file to view the conflict — **ours** vs **theirs**
+3. Resolve each hunk individually or choose a side for the whole file
+4. Click **Apply & Resolve** to save
+5. Complete or abort the merge when ready
 
 ## Deleting Branches
 

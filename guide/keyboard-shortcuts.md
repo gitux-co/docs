@@ -44,6 +44,7 @@ Press the shortcut to add the prefix. Press again to remove it.
 
 | Shortcut | Action |
 |----------|--------|
+| `Ctrl+F` | Toggle search & filter panel |
 | `Alt+C` | Focus commit message textarea |
 | `Escape` | Close modal / diff viewer / details panel |
 
@@ -149,6 +150,7 @@ All shortcuts work as documented. Some desktop environments may intercept certai
 │   Alt+4       docs:                         │
 ├─────────────────────────────────────────────┤
 │ OTHER                                       │
+│   Ctrl+F      Search & filter               │
 │   Alt+C       Focus commit message          │
 │   Alt+M       Voice input                   │
 │   Escape      Close panel/modal             │

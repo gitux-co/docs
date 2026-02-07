@@ -79,6 +79,7 @@ export default defineConfig({
             { text: 'Branch Management', link: '/features/branch-management' },
             { text: 'Voice Input', link: '/features/voice-input' },
             { text: 'Keyboard Shortcuts', link: '/features/keyboard-shortcuts' },
+            { text: 'Search & Filter', link: '/features/search-filter' },
             { text: 'Stash Management', link: '/features/stash-management' },
             { text: 'File History', link: '/features/file-history' },
           ]

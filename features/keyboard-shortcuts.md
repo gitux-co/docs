@@ -37,6 +37,7 @@ Press `Ctrl+/` anytime to see all shortcuts in Gitux.
 
 | Shortcut | Action |
 |----------|--------|
+| `Ctrl+F` | Toggle search & filter panel |
 | `Alt+C` | Focus commit message |
 | `Escape` | Close modal/panel |
 
@@ -129,6 +130,7 @@ All shortcuts work as documented. Some desktop environments may intercept certai
 ║   Alt+4 ......... docs:                   ║
 ╠═══════════════════════════════════════════╣
 ║ OTHER                                     ║
+║   Ctrl+F ........ Search & filter         ║
 ║   Alt+C ......... Focus commit message    ║
 ║   Alt+M ......... Voice input             ║
 ║   Escape ........ Close panel             ║

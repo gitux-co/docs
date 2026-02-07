@@ -88,15 +88,34 @@ When using **Merge into...** from context menu:
 2. Confirm the merge
 3. Handle any conflicts
 
+### Post-Merge Cleanup
+
+After merging a feature, hotfix, or bug branch (any branch with a `/` in the name), Gitux offers to clean up:
+
+1. A prompt appears asking if you want to delete the source branch
+2. Options include:
+   - **Delete Local & Remote** — Removes both copies
+   - **Delete Local Only** — Keeps the remote branch
+   - **Keep Branch** — No deletion
+
+This keeps your branch list tidy after merging feature work.
+
 ## Handling Conflicts
 
-When a merge has conflicts:
+When a merge has conflicts, Gitux opens a dedicated conflict resolution screen:
 
 1. Warning notification appears
-2. Conflicted files show in staging panel
-3. Open files to resolve conflicts
-4. Stage resolved files
-5. Commit to complete merge
+2. Conflicted files are listed with their status
+3. Click a file to see the conflict details — **ours**, **theirs**, and the full content
+4. Resolve per-hunk: choose "ours" or "theirs" for each conflict section, or edit manually
+5. Click **Apply & Resolve** to save your resolution
+6. Once all files are resolved, complete or abort the merge
+
+### Conflict Resolution Features
+- **Per-hunk resolution** — Resolve each conflict section independently
+- **Side-by-side view** — See both versions clearly
+- **Keyboard shortcuts** — Navigate and resolve quickly
+- **Abort merge** — Back out safely if needed
 
 ## Remote Branches
 

@@ -93,10 +93,23 @@ Right-click on a commit to access:
 Right-click on a file in the commit details to:
 - View file history
 
+## Search & Filter
+
+Press `Ctrl+F` to open the search & filter bar above the graph. You can:
+
+- **Search** commit messages and hashes by typing
+- **Filter by author** using the dropdown
+- **Set a date range** to narrow results
+- **Search files** by name and open their history directly
+- **Browse the file tree** to explore the repo and view any file's history
+
+See [Search & Filter](/features/search-filter) for full details.
+
 ## Keyboard Navigation
 
 | Shortcut | Action |
 |----------|--------|
+| `Ctrl+F` | Toggle search & filter panel |
 | `Escape` | Close commit details panel |
 | `Ctrl+R` | Refresh the graph |
 

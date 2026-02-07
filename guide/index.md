@@ -14,6 +14,7 @@ Gitux is a desktop application that provides a visual interface for Git. Think o
 - **Keyboard Shortcuts** — Every action has a shortcut for maximum productivity
 - **Drag & Drop Merging** — Merge branches by dragging one onto another
 - **Split/Unified Diffs** — View changes in your preferred format
+- **Search & Filter** — Find commits by message, author, date, or search files to view their history
 - **File History** — Right-click any file to see its complete history
 - **Stash Management** — Save and restore work-in-progress with ease
 

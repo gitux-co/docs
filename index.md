@@ -32,7 +32,10 @@ features:
   - icon: 👁️
     title: Split & Unified Diffs
     details: View changes in unified or split view. Syntax highlighting and minimap for large diffs.
-  - icon: 📁
+  - icon: �
+    title: Search & Filter
+    details: Find any commit by message, author, or date. Search files and browse the repo tree to jump straight to file history.
+  - icon: �📁
     title: File History & Context
     details: Right-click any file to see its commit history. Switch between list and folder views.
 ---

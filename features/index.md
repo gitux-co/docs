@@ -27,6 +27,9 @@ Extensive keyboard shortcuts for every action. Stage all files, commit, push, an
 ### [Stash Management](/features/stash-management)
 Save work-in-progress with descriptive messages. Apply, pop, or drop stashes from the sidebar.
 
+### [Search & Filter](/features/search-filter)
+Find any commit instantly. Search messages, filter by author, narrow by date range, and search files to jump straight to their history.
+
 ### [File History](/features/file-history)
 Right-click any file to see its complete commit history. Track changes over time and understand code evolution.
 
@@ -42,7 +45,11 @@ Right-click any file to see its complete commit history. Track changes over time
 | Split diff view | ✅ | ✅ | ✅ |
 | Diff minimap | ✅ | ❌ | ❌ |
 | Keyboard shortcuts | ✅ Extensive | ✅ Limited | ✅ Limited |
+| Commit search & filter | ✅ Multi-filter | ✅ Basic | ✅ Basic |
+| File search & browser | ✅ Built-in | ❌ | ❌ |
 | File history | ✅ | ✅ | ✅ |
+| Merge conflict resolution | ✅ Per-hunk | ✅ | ✅ |
+| Post-merge branch cleanup | ✅ Auto-prompt | ❌ | ❌ |
 | Stash management | ✅ | ✅ | ✅ |
 | Lightweight | ✅ | ❌ | ❌ |
 | One-time payment | ✅ | ❌ | ✅ (Free) |

@@ -96,10 +96,23 @@ Branches appear as lines diverging and merging back.
 ### Complex Histories
 Even complicated merge patterns are rendered clearly with distinct colors.
 
+## Search & Filter
+
+A powerful [Search & Filter](/features/search-filter) bar sits above the graph:
+
+- **`Ctrl+F`** to toggle the search panel
+- **Search** commit messages and hashes
+- **Filter by author** to see one person's work
+- **Date range** to narrow to a time window
+- **File search** to find any file and jump to its history
+- **File browser** to explore the repo tree visually
+
+When filters are active, the graph shows only matching commits with a count: "Showing 12 of 847 commits".
+
 ## Tips
 
 ### Find a Commit
-Click a branch in the sidebar to scroll to its latest commit.
+Use the search bar (`Ctrl+F`) to search by message or hash. Or click a branch in the sidebar to scroll to its latest commit.
 
 ### Understand Merges
 Follow the colored lines to see which branches were merged and when.

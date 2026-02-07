@@ -4,6 +4,16 @@ Track the complete history of any file across all commits.
 
 ## Opening File History
 
+### From the Search Bar
+1. Press `Ctrl+F` to open the search & filter panel
+2. Type a filename in the **file search** field
+3. Click a result to open its history
+
+### From the File Browser
+1. Click the **folder icon** (📁) in the file search field
+2. Browse the repository tree
+3. Click any file to open its history
+
 ### From Staging Panel
 1. Right-click any file (staged or unstaged)
 2. Select **File history**
