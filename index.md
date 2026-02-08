@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Gitux
   text: Visual Git Made Simple
-  tagline: A lightweight Git client. Beautiful commit graphs, intuitive staging, voice-powered commits, and keyboard shortcuts that make you fly.
+  tagline: A lightweight Git client. Beautiful commit graphs, intuitive staging, voice-powered commits, and keyboard shortcuts that make you fly. Try free for 4 weeks — no credit card, no account required.
   image:
     src: /logo.png
     alt: Gitux
@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: View Features
       link: /features/
+    - theme: alt
+      text: ▶ Watch Demo
+      link: '#demo'
 
 features:
   - icon: 📊
@@ -39,6 +42,17 @@ features:
     title: File History & Context
     details: Right-click any file to see its commit history. Switch between list and folder views.
 ---
+
+<div id="demo" class="demo-section">
+
+## See Gitux in Action
+
+<video controls preload="metadata" style="width:100%;max-width:900px;margin:0 auto;display:block;border-radius:12px;box-shadow:0 4px 24px rgba(0,0,0,0.3)">
+  <source src="/video/gitux-walk-through-1770553202507.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+</div>
 
 ## Why Gitux?
 
