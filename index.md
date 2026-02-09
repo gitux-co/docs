@@ -64,16 +64,16 @@ GitUX was born out of frustration. Git clients either lacked a beautiful UI, wer
 <div class="features-grid">
 
 ### No More Subscriptions
-**£24 once. Yours forever.** While other Git clients charge £50–100/year, Gitux costs less than a single year of the alternatives — and you own it for life. Just like software used to be.
+**£24 once. Yours forever.** Other Git clients charge £50–100/year. Gitux costs less than one year — and it's yours for life.
 
 ### Lightweight & Fast
-Launches instantly, stays responsive. Even with large repos. No Electron bloat.
+Launches instantly, stays responsive. Even with large repos. No bloat, no waiting.
 
 ### Privacy First
-Voice recognition runs locally on your machine. Your code never leaves your computer. No telemetry, no cloud.
+Voice recognition runs locally. Your code never leaves your machine. No telemetry, no cloud.
 
 ### Keyboard-Driven
-Every action has a shortcut. `Alt+O` to switch repos, `Ctrl+S` to stage all, `Alt+1-4` for commit prefixes. Power users never touch the mouse.
+Every action has a shortcut. Stage, commit, push, and navigate without touching the mouse.
 
 </div>
 
@@ -91,23 +91,14 @@ Every action has a shortcut. `Alt+O` to switch repos, `Ctrl+S` to stage all, `Al
 | No account required | ✅ | ❌ | ❌ |
 | **One-time payment** | **✅ £24** | **❌ subscription** | ✅ Free |
 
-## Perfect For
-
-- **Solo developers** wanting a visual overview of their work
-- **Teams** reviewing branch histories and merges
-- **Open source contributors** juggling multiple repos
-- **Anyone** tired of typing `git log --oneline --graph --all`
-
-Easily keep an eye on which git commands are being run every step of the way:
-![Screenshot - git console.png](public/screenshots/Screenshot%20-%20git%20console.png)
-
 ---
 
 <div class="cta-section">
 
 ## Ready to try Gitux?
 
-Download it, use every feature free for 28 days, and decide for yourself. No credit card. No account. No catch.
+Download it free, use every feature for 28 days, and decide for yourself.
+No credit card. No account. No catch.
 
 [Download Free Trial](/download){.cta-button} [View Pricing](/pricing){.cta-button-alt}
 
